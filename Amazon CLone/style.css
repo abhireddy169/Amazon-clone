@@ -28,7 +28,7 @@
 }
 
 .logo{
-    background-image: url(images.png);
+    background-image: url(assets/images.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100px;
@@ -271,14 +271,14 @@
 /* CONTENT */
 
 .backimage{
-    background-image: url("arnel-hasanovic-MNd-Rka1o0Q-unsplash.jpg");
+    background-image: url("assets/arnel-hasanovic-MNd-Rka1o0Q-unsplash.jpg");
     width: 1500px;
     height: 600px;
     background-size: cover;
     z-index: -1;
 }
 .backimage2{
-    background-image: url("nordwood-themes-R53t-Tg6J4c-unsplash.jpg");
+    background-image: url("assets/nordwood-themes-R53t-Tg6J4c-unsplash.jpg");
     width: 1500px;
     height: 1500px;
     background-size: cover;
@@ -373,7 +373,7 @@
 }
 
 .img1a{
-    background-image: url(372x232_Home_storage_1._SY232_CB555629502_.jpg);
+    background-image: url(assets/372x232_Home_storage_1._SY232_CB555629502_.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -383,7 +383,7 @@
 
 }
 .img2a{
-    background-image: url(372x232_Home_lighting_2_-_Copy._SY232_CB555629502_.jpg);
+    background-image: url(assets/372x232_Home_lighting_2_-_Copy._SY232_CB555629502_.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -392,7 +392,7 @@
 
 }
 .img3a{
-    background-image: url(372x232_Home_furnishings_2._SY232_CB555629502_.jpg);
+    background-image: url(assets/372x232_Home_furnishings_2._SY232_CB555629502_.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -401,7 +401,7 @@
 
 }
 .img4a{
-    background-image: url(186x116_Home_decor_1._SY116_CB555624324_.jpg);
+    background-image: url(assets/186x116_Home_decor_1._SY116_CB555624324_.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -460,7 +460,7 @@
 /* BOX2 */
 
 .img1b{
-    background-image: url(auto1.jpg);
+    background-image: url(assets/auto1.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -470,7 +470,7 @@
 
 }
 .img2b{
-    background-image: url(auto3.jpg);
+    background-image: url(assets/auto3.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -479,7 +479,7 @@
 
 }
 .img3b{
-    background-image: url(auto2.jpg);
+    background-image: url(assets/auto2.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -488,7 +488,7 @@
 
 }
 .img4b{
-    background-image: url(auto4.jpg);
+    background-image: url(assets/auto4.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -549,7 +549,7 @@
 
 
 .img1c{
-    background-image: url(fashion1.jpg);
+    background-image: url(assets/fashion1.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 170px;
@@ -562,7 +562,7 @@
 
 }
 .img2c{
-    background-image: url(fashion2.jpg);
+    background-image: url(assets/fashion2.jpg);
     background-size: contain;
     background-repeat: no-repeat;;
     height: 170px;
@@ -572,7 +572,7 @@
 
 }
 .img3c{
-    background-image: url(fashion3.jpg);
+    background-image: url(assets/fashion3.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 170px;
@@ -582,7 +582,7 @@
 
 }
 .img4c{
-    background-image: url(fashion4.jpg);
+    background-image: url(assets/fashion4.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 170px;
@@ -608,7 +608,7 @@
 /* BOX6 */
 
 .img1f{
-    background-image: url(app1.jpg);
+    background-image: url(assets/app1.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -618,7 +618,7 @@
 
 }
 .img2f{
-    background-image: url(app3.jpg);
+    background-image: url(assets/app3.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -627,7 +627,7 @@
 
 }
 .img3f{
-    background-image: url(app2.jpg);
+    background-image: url(assets/app2.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -636,7 +636,7 @@
 
 }
 .img4f{
-    background-image: url(app4.jpg);
+    background-image: url(assets/app4.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -696,7 +696,7 @@
 /* BOX4 */
 
 .img1d{
-    background-image: url(game1.jpg);
+    background-image: url(assets/game1.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -706,7 +706,7 @@
 
 }
 .img2d{
-    background-image: url(game2.jpg);
+    background-image: url(assets/game2.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -715,7 +715,7 @@
 
 }
 .img3d{
-    background-image: url(game3.jpg);
+    background-image: url(assets/game3.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -724,7 +724,7 @@
 
 }
 .img4d{
-    background-image: url(game4.jpg);
+    background-image: url(assets/game4.jpg);
     background-size: cover;
     height: 150px;
     width: 150px;
@@ -784,7 +784,7 @@
 /* BOX5 */
 
 .movie{
-    background-image: url(aavesham.jpeg);
+    background-image: url(assets/aavesham.jpeg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 350px;
@@ -864,7 +864,7 @@
 }
 
 .endlogo{
-    background-image:url(amazon_logo.png) ;
+    background-image:url(assets/amazon_logo.png) ;
     background-size: cover;
     background-repeat: no-repeat;
     height: 35px;
@@ -893,7 +893,7 @@
 }
 
 .flag{
-    background-image: url(flag.png);
+    background-image: url(assets/flag.png);
     background-size: contain;
     background-repeat: no-repeat;
     height: 19px;
